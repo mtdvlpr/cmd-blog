@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# Dependencies
+node_modules
+vendor
+
+# Output
+dist
+docs/.vitepress/cache
+
+# Yarn
+.pnp.*
+.yarn/*
+
+# MacOS
+.DS_Store
+
+# Playwright
+playwright-report
+test-results
+
+# Optional linter cache
+.eslintcache
+.stylelintcache
+
+# Generated files
+LICENSE
+yarn.lock

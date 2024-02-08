@@ -1,0 +1,2 @@
+node ./scripts/warn-npm-install.js
+yarn lint-staged

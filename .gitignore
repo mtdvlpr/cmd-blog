@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# Dependencies
+node_modules
+vendor
+
+# Output
+dist
+src/.vitepress/cache
+
+# Yarn
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# MacOS
+.DS_Store
+
+# Optional linter cache
+.eslintcache
+.stylelintcache
+
+# Service workers
+sw*.js
