@@ -10,11 +10,11 @@ export const TOPBAR: DefaultTheme.NavItem[] = [
     items: [
       {
         text: 'Changelog',
-        link: GH_REPO + '/-/blob/master/CHANGELOG.md',
+        link: GH_REPO + '/blob/main/CHANGELOG.md',
       },
       {
         text: 'Report a bug',
-        link: GH_REPO + '/-/issues/new',
+        link: GH_REPO + '/issues/new',
       },
     ],
   },
