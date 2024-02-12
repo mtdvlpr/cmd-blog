@@ -2,10 +2,12 @@ import { THEME_CONFIG, SIDEBAR, TOPBAR } from './../../constants'
 import pkg from './../../package.json'
 import { defineConfig } from 'vitepress'
 
+const base = '/cmd-blog/'
+
 // https://vitepress.dev/reference/site-config
 export default async () =>
   defineConfig({
-    base: '/cmd-blog/',
+    base,
     srcExclude: ['**/README.md'],
     lang: 'en-US',
     title: 'CMD Blog',
@@ -13,7 +15,12 @@ export default async () =>
     head: [
       [
         'link',
-        { rel: 'icon', href: '/favicon.svg', type: 'image/png', sizes: 'any' },
+        {
+          rel: 'icon',
+          href: `${base}favicon.svg`,
+          type: 'image/png',
+          sizes: 'any',
+        },
       ],
     ],
     locales: { root: { label: 'English', lang: 'en' } },
