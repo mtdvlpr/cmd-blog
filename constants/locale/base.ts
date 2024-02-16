@@ -3,22 +3,22 @@ import type { DefaultTheme } from 'vitepress'
 import type { LocalSearchTranslations } from 'vitepress/types/local-search'
 
 export const searchOptions = (
-  translations?: Required<LocalSearchTranslations>,
+  translations?: Required<LocalSearchTranslations>
 ): { provider: 'local'; options?: DefaultTheme.LocalSearchOptions } => ({
   provider: 'local',
-  options: { translations },
+  options: { translations }
 })
 
 export const editLink = (text?: string): DefaultTheme.EditLink => ({
   text,
-  pattern: GH_REPO + '/-/edit/main/src/:path',
+  pattern: GH_REPO + '/-/edit/main/src/:path'
 })
 
 export const lastUpdated = (
-  text?: string,
+  text?: string
 ): DefaultTheme.LastUpdatedOptions => ({
   text,
-  formatOptions: { dateStyle: 'medium', forceLocale: true },
+  formatOptions: { dateStyle: 'medium', forceLocale: true }
 })
 
 type LocaleOptions = Required<
@@ -47,5 +47,5 @@ export const localOptions = (options: LocaleOptions): DefaultTheme.Config => ({
   docFooter: { prev: options.prev, next: options.next },
   editLink: editLink(options.editLink),
   lastUpdated: lastUpdated(options.lastUpdated),
-  search: searchOptions(options.search),
+  search: searchOptions(options.search)
 })

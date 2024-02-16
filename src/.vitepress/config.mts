@@ -1,5 +1,5 @@
 import { defineConfig } from '@lando/vitepress-theme-default-plus/config'
-import { THEME_CONFIG, SIDEBAR, TOPBAR } from './../../constants'
+import { THEME_CONFIG, SIDEBAR, TOPBAR, CANONICAL_URL } from './../../constants'
 import pkg from './../../package.json'
 
 const base = '/cmd-blog/'
@@ -17,7 +17,7 @@ export default async () =>
         'link',
         {
           rel: 'icon',
-          href: `${base}favicon.svg`,
+          href: base + 'favicon.svg',
           type: 'image/png',
           sizes: 'any'
         }
@@ -31,10 +31,12 @@ export default async () =>
       nav: TOPBAR,
       sidebar: SIDEBAR,
       ...THEME_CONFIG,
+      // https://vitepress-theme-default-plus.lando.dev/config/config.html
       contributors: false,
+      // collections: { post: { frontmatter: { aside: true } } },
       autometa: {
-        canonicalUrl: 'https://mtdvlpr.github.io/cmd-blog/',
-        image: 'https://mtdvlpr.github.io/cmd-blog/favicon.svg'
+        canonicalUrl: CANONICAL_URL,
+        image: CANONICAL_URL + 'favicon.svg'
       }
     }
   })
