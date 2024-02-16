@@ -31,6 +31,7 @@ export default async () =>
       nav: TOPBAR,
       sidebar: SIDEBAR,
       ...THEME_CONFIG,
+      contributors: false,
       autometa: {
         canonicalUrl: 'https://mtdvlpr.github.io/cmd-blog/',
         image: 'https://mtdvlpr.github.io/cmd-blog/favicon.svg'
