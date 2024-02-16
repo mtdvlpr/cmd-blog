@@ -21,6 +21,11 @@
       "@@": ["."]
     }
   },
-  "include": ["./*.ts", "./constants/**/*.ts", "./src/**/*.ts"],
-  "exclude": ["dist", "node_modules"]
+  "include": [
+    "./*.ts",
+    "./constants/**/*.ts",
+    "./src/**/*.ts",
+    "./src/**/*.md"
+  ],
+  "exclude": ["dist", "node_modules", "**/README.md"]
 }

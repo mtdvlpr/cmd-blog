@@ -12,7 +12,7 @@ export const THEME_CONFIG: DefaultTheme.Config = {
   footer: {
     message: `Released under the <a href="${GH_REPO}/blob/main/LICENSE">MIT License</a>.`,
     copyright:
-      'Copyright © 2024-present <a href="https://github.com/mtdvlpr">Manoah Tervoort</a>',
+      'Copyright © 2024-present <a href="https://github.com/mtdvlpr">Manoah Tervoort</a>'
   },
-  socialLinks: [{ icon: 'github', link: GH_REPO, ariaLabel: 'GitHub' }],
+  socialLinks: [{ icon: 'github', link: GH_REPO, ariaLabel: 'GitHub' }]
 }

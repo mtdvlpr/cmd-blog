@@ -1,15 +1,26 @@
 ---
 title: Polypane
-speaker: Kilian Valkhof
+byline: Kilian's main topic was about how we need less and less JavaScript and more and more HTML and CSS. He also talked about Polypane, a browser for web developers that he created and maintains.
+tags:
+  - html
+  - css
+  - javascript
+  - accessibility
+author:
+  name: Manoah
+  link: /about/me
+  pic: https://avatars.githubusercontent.com/u/46671786
+blog: true
+location: false
 ---
 
-# {{ $frontmatter.title}}
+# {{ $frontmatter.title }}
 
-Speaker: {{ $frontmatter.speaker }}
+Speaker: Kilian Valkhof
 
 ## Summary
 
-Kilian's main topic was about how we need less and less JavaScript and more and more HTML and CSS. He also talked about Polypane, a browser for web developers that he created and maintains.
+{{ $frontmatter.byline }}
 
 ## Notes
 

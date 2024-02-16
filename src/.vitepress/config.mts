@@ -1,6 +1,6 @@
+import { defineConfig } from '@lando/vitepress-theme-default-plus/config'
 import { THEME_CONFIG, SIDEBAR, TOPBAR } from './../../constants'
 import pkg from './../../package.json'
-import { defineConfig } from 'vitepress'
 
 const base = '/cmd-blog/'
 
@@ -19,9 +19,9 @@ export default async () =>
           rel: 'icon',
           href: `${base}favicon.svg`,
           type: 'image/png',
-          sizes: 'any',
-        },
-      ],
+          sizes: 'any'
+        }
+      ]
     ],
     locales: { root: { label: 'English', lang: 'en' } },
     cleanUrls: true,
@@ -31,5 +31,9 @@ export default async () =>
       nav: TOPBAR,
       sidebar: SIDEBAR,
       ...THEME_CONFIG,
-    },
+      autometa: {
+        canonicalUrl: 'https://mtdvlpr.github.io/cmd-blog/',
+        image: 'https://mtdvlpr.github.io/cmd-blog/favicon.svg'
+      }
+    }
   })

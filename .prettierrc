@@ -1,6 +1,6 @@
 {
-  "$schema": "./config/schemas/prettierrc.json",
   "semi": false,
   "singleQuote": true,
-  "endOfLine": "auto"
+  "endOfLine": "auto",
+  "trailingComma": "none"
 }

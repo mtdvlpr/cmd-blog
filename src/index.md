@@ -8,6 +8,9 @@ hero:
   text: 'My Weekly Nerd Blog'
   actions:
     - theme: brand
-      text: Start reading
-      link: /blog/
+      text: Go to my blog
+      link: /blog
+    - theme: alt
+      text: Get to know me
+      link: /about/me
 ---

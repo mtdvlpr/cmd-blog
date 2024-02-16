@@ -12,9 +12,9 @@
     "node_modules",
     "yarn.lock"
   ],
-  "cSpell.ignoreWords": ["shorthand"],
+  "cSpell.ignoreWords": ["shorthand", "technologies"],
   "cSpell.enabled": true,
   "cSpell.language": "en,nl",
   "typescript.tsdk": "node_modules/typescript/lib",
-  "cSpell.words": ["CMDA", "stuyk", "vitepress"]
+  "cSpell.words": ["Bæck", "CMDA", "lando", "stuyk", "vitepress"]
 }
