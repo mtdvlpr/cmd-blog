@@ -10,7 +10,7 @@ export const getNavItems = (path: string): DefaultTheme.SidebarItem[] => {
     navItems.push({
       text: data.title,
       link: file.replace('src', '').replace('.md', '').replace('index', ''),
-      order: data.order ?? 99,
+      order: data.order ?? 99
     })
   })
   return navItems.sort((a, b) => a.order - b.order)

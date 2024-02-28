@@ -33,7 +33,7 @@ export default async () =>
       ...THEME_CONFIG,
       // https://vitepress-theme-default-plus.lando.dev/config/config.html
       contributors: false,
-      // collections: { post: { frontmatter: { aside: true } } },
+      collections: { post: { frontmatter: { aside: true } } },
       autometa: {
         canonicalUrl: CANONICAL_URL,
         image: CANONICAL_URL + 'favicon.svg'

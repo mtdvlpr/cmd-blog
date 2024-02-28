@@ -20,8 +20,8 @@ export const nl = localOptions({
       footer: {
         selectText: 'selecteren',
         navigateText: 'navigeren',
-        closeText: 'sluiten',
-      },
-    },
-  },
+        closeText: 'sluiten'
+      }
+    }
+  }
 })

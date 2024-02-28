@@ -6,12 +6,12 @@ tags:
   - css
   - javascript
   - accessibility
+  - weekly nerd
 author:
   name: Manoah
   link: /about/me
   pic: https://avatars.githubusercontent.com/u/46671786
 blog: true
-location: false
 ---
 
 # {{ $frontmatter.title}}

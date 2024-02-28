@@ -9,6 +9,11 @@ export const searchOptions = (
   options: { translations }
 })
 
+export const outline = (label?: string): DefaultTheme.Outline => ({
+  label,
+  level: 'deep'
+})
+
 export const editLink = (text?: string): DefaultTheme.EditLink => ({
   text,
   pattern: GH_REPO + '/-/edit/main/src/:path'
@@ -17,8 +22,9 @@ export const editLink = (text?: string): DefaultTheme.EditLink => ({
 export const lastUpdated = (
   text?: string
 ): DefaultTheme.LastUpdatedOptions => ({
-  text,
-  formatOptions: { dateStyle: 'medium', forceLocale: true }
+  text: text,
+  // @ts-expect-error: timeago is not a valid option for dateStyle
+  formatOptions: { dateStyle: 'timeago', forceLocale: true }
 })
 
 type LocaleOptions = Required<
@@ -43,8 +49,8 @@ export const localOptions = (options: LocaleOptions): DefaultTheme.Config => ({
   darkModeSwitchTitle: options.darkModeSwitchTitle,
   lightModeSwitchTitle: options.lightModeSwitchTitle,
   returnToTopLabel: options.returnToTopLabel,
-  outline: { label: options.outline },
   docFooter: { prev: options.prev, next: options.next },
+  outline: outline(options.outline),
   editLink: editLink(options.editLink),
   lastUpdated: lastUpdated(options.lastUpdated),
   search: searchOptions(options.search)

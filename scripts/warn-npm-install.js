@@ -8,10 +8,10 @@ if (fs.existsSync('package-lock.json')) {
   console.log()
   console.log(`${red}WARNING:${reset}`)
   console.log(
-    `This project uses ${bright}Yarn${reset}. Installing its dependencies with ${bright}npm${reset} may result in errors.`,
+    `This project uses ${bright}Yarn${reset}. Installing its dependencies with ${bright}npm${reset} may result in errors.`
   )
   console.log(
-    `Please remove ${bright}package-lock.json${reset} and try again, with yarn this time.`,
+    `Please remove ${bright}package-lock.json${reset} and try again, with yarn this time.`
   )
   console.log()
   process.exit(1)
