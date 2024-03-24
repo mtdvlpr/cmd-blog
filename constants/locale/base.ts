@@ -16,7 +16,7 @@ export const outline = (label?: string): DefaultTheme.Outline => ({
 
 export const editLink = (text?: string): DefaultTheme.EditLink => ({
   text,
-  pattern: GH_REPO + '/-/edit/main/src/:path'
+  pattern: GH_REPO + '/edit/main/src/:path'
 })
 
 export const lastUpdated = (
