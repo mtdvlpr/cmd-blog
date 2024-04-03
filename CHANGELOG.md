@@ -1,3 +1,10 @@
+# 1.3.0 (2024-4-3)
+
+## Features
+
+- Blog post about about CSS & Art
+- Blog post about about Digitaal toegankelijk
+
 # 1.2.0 (2024-2-28)
 
 ## Features

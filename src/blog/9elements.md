@@ -16,6 +16,12 @@ blog: true
 
 Speaker: Nils Binder
 
+## Summary
+
+{{ $frontmatter.byline }}
+
+## Notes
+
 3 different units:
 
 - communication design
@@ -84,3 +90,7 @@ p {grid-column: 3 / 4; }
 ```
 
 Use the space that you have, and don't be afraid to use it.
+
+## Reflection
+
+Nils' talk was very interesting.

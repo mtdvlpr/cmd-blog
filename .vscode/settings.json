@@ -12,9 +12,19 @@
     "node_modules",
     "yarn.lock"
   ],
-  "cSpell.ignoreWords": ["shorthand", "technologies"],
+  "cSpell.ignoreWords": ["transform", "shorthand", "technologies"],
   "cSpell.enabled": true,
   "cSpell.language": "en,nl",
   "typescript.tsdk": "node_modules/typescript/lib",
-  "cSpell.words": ["Bæck", "CMDA", "Greeuw", "lando", "stuyk", "vitepress"]
+  "cSpell.words": [
+    "Bæck",
+    "CMDA",
+    "Greeuw",
+    "lando",
+    "stuyk",
+    "vitepress",
+    "vmax",
+    "vmin",
+    "WCAG"
+  ]
 }

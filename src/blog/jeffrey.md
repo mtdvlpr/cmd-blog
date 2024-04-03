@@ -18,6 +18,12 @@ blog: true
 Speaker: Jeffrey Arts
 Website: jeffreyarts.nl
 
+## Summary
+
+{{ $frontmatter.byline }}
+
+## Notes
+
 Development ecosystem
 
 frontend vs backend
@@ -49,3 +55,7 @@ Take away's
 - Stick to core technologies as much as possible (TypeScript over JSX)
 - Create tools that support personal workflow (templates, scripts, etc.)
 - Development != Efficiency / costs
+
+## Reflection
+
+I could not really follow Jeffrey's talk. I think it was because of the way he presented his talk. He was talking very fast and he was not very clear in his explanations. I think he could have used more structure in his talk. He was jumping from one topic to another without any clear structure. Besides this, the parts that I did follow were not very interesting to me personally. He talked more about his art than actual web technology.
