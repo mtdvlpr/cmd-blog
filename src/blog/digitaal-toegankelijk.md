@@ -1,6 +1,6 @@
 ---
 title: Digitaal toegankelijk
-byline: 
+byline: Digitaal toegankelijk is a company that helps other companies make their websites accessible. They talked about the most common issues they see in websites and how to avoid them.
 tags:
   - accessibility
   - weekly nerd

@@ -85,8 +85,12 @@ The optional column technique
   grid-template-columns: 2fr 3fr auto 1fr;
 }
 
-h1 {grid-column: 2 / 4; }
-p {grid-column: 3 / 4; }
+h1 {
+  grid-column: 2 / 4;
+}
+p {
+  grid-column: 3 / 4;
+}
 ```
 
 Use the space that you have, and don't be afraid to use it.

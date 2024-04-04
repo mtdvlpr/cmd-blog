@@ -32,7 +32,21 @@ export default async () =>
       sidebar: SIDEBAR,
       ...THEME_CONFIG,
       // https://vitepress-theme-default-plus.lando.dev/config/config.html
-      contributors: false,
+      contributors: {
+        merge: 'name',
+        debotify: true,
+        include: [
+          {
+            avatar: 'https://avatars.githubusercontent.com/u/46671786',
+            name: 'Manoah Tervoort',
+            email: '149895ja@gmail.com',
+            title: 'Author',
+            links: [{ icon: 'github', link: 'https://github.com/mtdvlpr' }],
+            mergeOnly: true,
+            mergeWith: '46671786+mtdvlpr@users.noreply.github.com'
+          }
+        ]
+      },
       collections: { post: { frontmatter: { aside: true } } },
       autometa: {
         canonicalUrl: CANONICAL_URL,

@@ -5,7 +5,7 @@
     "eslint:recommended",
     "plugin:vue/vue3-essential",
     "@vue/eslint-config-typescript",
-    "plugin:markdown/recommended",
+    "plugin:markdown/recommended-legacy",
     "plugin:prettier/recommended"
   ],
   "ignorePatterns": ["/scripts/*"],

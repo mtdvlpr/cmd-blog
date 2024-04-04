@@ -7,10 +7,6 @@ tags:
   - javascript
   - accessibility
   - course
-author:
-  name: Manoah
-  link: /about/me
-  pic: https://avatars.githubusercontent.com/u/46671786
 blog: true
 ---
 
