@@ -1,3 +1,14 @@
+# 1.4.0 (2024-4-4)
+
+## Features
+
+- Blog post about the Browser Technology course
+- Blog post about the CSS to the Rescue course
+
+## Bug Fixes
+
+- Fixed the contributors page
+
 # 1.3.0 (2024-4-3)
 
 ## Features

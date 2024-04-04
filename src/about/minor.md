@@ -15,15 +15,11 @@ The minor consists of five courses and a hackathon. Each course is about a diffe
 
 This course is about creating a web app from scratch using only HTML, CSS and JavaScript.
 
-### CSS To The Rescue
-
-<!--### [CSS To The Rescue](/blog/css-to-the-rescue)-->
+### [CSS To The Rescue](/blog/css-to-the-rescue)
 
 This course is about creating a web app using only CSS. We have to create a web app that is accessible to everyone.
 
-### Browser Technologies
-
-<!--### [Browser Technologies](/blog/browser-technologies)-->
+### [Browser Technology](/blog/browser-technology)
 
 This course is about creating a web app that works for everyone, no matter what browser or device they use.
 
