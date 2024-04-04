@@ -4,6 +4,7 @@
 
 - Blog post about the Browser Technology course
 - Blog post about the CSS to the Rescue course
+- Blog post about the hackathon
 
 ## Bug Fixes
 

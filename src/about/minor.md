@@ -23,6 +23,10 @@ This course is about creating a web app using only CSS. We have to create a web 
 
 This course is about creating a web app that works for everyone, no matter what browser or device they use.
 
+### [Hackathon](/blog/hackathon)
+
+The hackathon is a one week event focused on a specific topic. We have to create a web app that incorporates the topic.
+
 ### Human Centered Design
 
 <!--### [Human Centered Design](/blog/human-centered-design)-->
