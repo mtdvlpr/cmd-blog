@@ -2,7 +2,6 @@
 title: CSS to the Rescue
 byline: CSS to the Rescue is the second course of the minor Web Development at the HvA. The course is about experimenting with CSS to create a cool, interactive website without using JavaScript.
 tags:
-  - html
   - css
   - course
 blog: true
