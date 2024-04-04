@@ -42,8 +42,7 @@ export default async () =>
             email: '149895ja@gmail.com',
             title: 'Author',
             links: [{ icon: 'github', link: 'https://github.com/mtdvlpr' }],
-            mergeOnly: true,
-            mergeWith: '46671786+mtdvlpr@users.noreply.github.com'
+            mergeOnly: true
           }
         ]
       },
