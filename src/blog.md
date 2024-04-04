@@ -11,7 +11,7 @@ sidebar: false
       Welcome to my blog!
     </template>
     <template #lead>
-      This blog contains posts about guest speakers and their talks.
+      This blog contains posts about the courses I followed and guest speakers and their talks.
     </template>
   </VPLCollectionPageTitle>
   <VPLCollectionPageTags v-model="tags" />
