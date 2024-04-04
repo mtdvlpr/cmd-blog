@@ -4,6 +4,10 @@ byline: CSS to the Rescue is the second course of the minor Web Development at t
 tags:
   - css
   - course
+author:
+  name: Manoah
+  link: /about/me
+  pic: https://avatars.githubusercontent.com/u/46671786
 blog: true
 ---
 
