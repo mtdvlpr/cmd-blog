@@ -1,5 +1,5 @@
 ---
-title: Jeffrey Arts
+title: Digital Art
 byline: Jeffrey talked about his development ecosystem, frontend vs backend, deployment, toolbox workflow, and his way of working.
 tags:
   - html
