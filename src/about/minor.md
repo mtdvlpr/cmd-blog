@@ -33,11 +33,9 @@ The hackathon is a one week event focused on a specific topic. We have to create
 
 This course is about creating a web app that is user-friendly. We have to do user research and usability testing.
 
-### API
+### [API](/blog/api)
 
-<!--### [API](/blog/api)-->
-
-This course is about creating a web app that uses an API. We have to create a web app that uses data from an API.
+This course is about creating a web app that uses data from an external API and implements Web APIs.
 
 ## Weekly Nerd
 

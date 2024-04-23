@@ -1,3 +1,9 @@
+# 1.5.0 (2024-4-23)
+
+## Features
+
+- Blog post about the API course
+
 # 1.4.0 (2024-4-4)
 
 ## Features
