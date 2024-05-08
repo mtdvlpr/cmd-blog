@@ -22,6 +22,8 @@ The Weekly Nerds have been really interesting! I learned a lot about several top
 
 I also liked the talks about accessibility. I learned that more people than I thought have disabilities. I think it is very important to make websites accessible to everyone. I will definitely keep the things I learned in mind when I create websites in the future.
 
+The creative, artsy talks were not really my thing. I'm more of a technical person. I did learn some new things during these talks, but I didn't find them as interesting as the other talks.
+
 ## Courses
 
 I learned a lot during the courses. I learned how to create a web app from scratch using only HTML, CSS and JavaScript. I learned how to create a web app using only CSS. I learned how to create a web app that works for everyone, no matter what browser or device they use. I learned how to create a web app that is user-friendly. I learned how to create a web app that uses data from an external API and implements Web APIs.
