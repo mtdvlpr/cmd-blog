@@ -38,3 +38,7 @@ This course is about creating a web app that uses data from an external API and 
 ## Weekly Nerd
 
 Every week we have a guest speaker. They talk about their work and experiences. It's always interesting to hear from professionals in the field. After each talk, we write a blog post about it. You can find them on the [blog page](/blog).
+
+## Learning Goals
+
+During this minor, I want to learn more about web development and design. Especially about how to come up with a good design. I'd also like to learn more about working with vanilla JavaScript, without frameworks.
