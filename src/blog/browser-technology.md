@@ -14,7 +14,7 @@ author:
 blog: true
 ---
 
-# {{ $frontmatter.title }}
+# Browser Technology
 
 Teachers: Vasilis van Gemert, Peter Paul Koch, Jeremy Keith
 

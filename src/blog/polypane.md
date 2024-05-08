@@ -14,7 +14,7 @@ author:
 blog: true
 ---
 
-# {{ $frontmatter.title }}
+# Polypane
 
 Speaker: Kilian Valkhof
 

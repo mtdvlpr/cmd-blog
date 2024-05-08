@@ -11,7 +11,7 @@ author:
 blog: true
 ---
 
-# {{ $frontmatter.title }}
+# CSS to the Rescue
 
 Teachers: Sanne 't Hooft, Nils Binder, Roel Nieskens
 

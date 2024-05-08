@@ -13,7 +13,7 @@ author:
 blog: true
 ---
 
-# {{ $frontmatter.title }}
+# Digital Art
 
 Speaker: Jeffrey Arts
 Website: jeffreyarts.nl

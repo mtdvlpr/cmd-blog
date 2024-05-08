@@ -11,7 +11,7 @@ author:
 blog: true
 ---
 
-# {{ $frontmatter.title }}
+# CSS & Art
 
 Speaker: Julia Miocene
 

@@ -14,7 +14,7 @@ author:
 blog: true
 ---
 
-# {{ $frontmatter.title }}
+# Human Centered Design
 
 Teachers: Vasilis van Gemert, Eric Groot Kormelink, Tamara Pinos Cisneros
 
