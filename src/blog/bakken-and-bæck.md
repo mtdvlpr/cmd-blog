@@ -14,7 +14,7 @@ author:
 blog: true
 ---
 
-# {{ $frontmatter.title}}
+# {{ $frontmatter.title }}
 
 Speaker: Fenna de Wilde
 
