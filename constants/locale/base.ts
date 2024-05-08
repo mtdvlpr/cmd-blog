@@ -8,6 +8,7 @@ export const searchOptions = (
   provider: 'local',
   options: {
     translations,
+    detailedView: true,
     _render: (src, env, md) => {
       const html = md.render(src, env)
       if (env.frontmatter?.search === false) return ''
