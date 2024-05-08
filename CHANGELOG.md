@@ -1,3 +1,13 @@
+# 1.6.0 (2024-5-8)
+
+## Features
+
+- Blog post about Human Centered Design
+
+## Bug Fixes
+
+- Fixed some missing reflections
+
 # 1.5.0 (2024-4-23)
 
 ## Features
