@@ -18,7 +18,6 @@ If you want to contribute to this project, the following is recommended:
 
 1. Clone this repository
 2. Disable (workspace) Vetur VS Code extension (if Vetur is installed)
-3. Enable [Volar Takeover Mode](https://vuejs.org/guide/typescript/overview.html#volar-takeover-mode)
 
 ## Build Setup
 
