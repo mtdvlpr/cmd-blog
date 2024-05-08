@@ -42,3 +42,5 @@ kinda like inspect element but with hardware
 conclusion: don't accept the status quo
 
 ## Reflection
+
+It was interesting to see how Rosa uses technology in a creative way. I never heard of circuit bending before, but it seems like a fun way to create new things. I don't think I'll ever do it myself, but I'm glad I know about it now. I did like the conclusion: don't accept the status quo. It's important to keep looking for new ways to do things.

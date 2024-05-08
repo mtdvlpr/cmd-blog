@@ -58,3 +58,5 @@ Questions to ask yourself:
 Use a screenreader. Use your keyboard. Test with your target audience.
 
 ## Reflection
+
+I think it's important to make websites accessible to everyone. It's not that hard to make a website accessible, but it's often overlooked. I think it's good that there are companies like Digitaal toegankelijk that help other companies make their websites accessible. I think it's important to test websites with your target audience. You can't know if a website is accessible if you don't test it.
