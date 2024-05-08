@@ -37,8 +37,14 @@ This course is about creating a web app that uses data from an external API and 
 
 ## Weekly Nerd
 
-Every week we have a guest speaker. They talk about their work and experiences. It's always interesting to hear from professionals in the field. After each talk, we write a blog post about it. You can find them on the [blog page](/blog).
+Every week we have a guest speaker. They talk about their work and experiences. It's always interesting to hear from professionals in the field. After each talk, we write a blog post about it. You can find them on the [blog page](/blog). My reflection on the Weekly Nerds can be found in the [Weekly Nerd blog post](/blog/weekly-nerd).
 
 ## Learning Goals
 
 During this minor, I want to learn more about web development and design. Especially about how to come up with a good design. I'd also like to improve in working with vanilla JavaScript, without frameworks.
+
+## Meesterproef
+
+At the end of the minor, we have to do a meesterproef. This is a project where we have to create a web app for a real client. We have to use everything we learned during the minor. I'm looking forward to this project!
+
+I'd like to improve my design skills during the meesterproef and come up with a good design for the web app. I'd also like to improve my teamwork skills and learn how to work with a real client.
