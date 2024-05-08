@@ -6,7 +6,29 @@ export const searchOptions = (
   translations?: Required<LocalSearchTranslations>
 ): { provider: 'local'; options?: DefaultTheme.LocalSearchOptions } => ({
   provider: 'local',
-  options: { translations }
+  options: {
+    translations,
+    _render: (src, env, md) => {
+      const html = md.render(src, env)
+      if (env.frontmatter?.search === false) return ''
+      let parsed = html
+      if (env.frontmatter?.title) {
+        parsed = parsed.replace(
+          '{{ $frontmatter.title }}',
+          `${env.frontmatter.title}`
+        )
+      }
+
+      if (env.frontmatter?.byline) {
+        parsed = parsed.replace(
+          '{{ $frontmatter.byline }}',
+          `${env.frontmatter.byline}`
+        )
+      }
+
+      return parsed
+    }
+  }
 })
 
 export const outline = (label?: string): DefaultTheme.Outline => ({

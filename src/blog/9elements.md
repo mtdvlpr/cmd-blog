@@ -12,7 +12,7 @@ author:
 blog: true
 ---
 
-# 9elements
+# {{ $frontmatter.title }}
 
 Speaker: Nils Binder
 

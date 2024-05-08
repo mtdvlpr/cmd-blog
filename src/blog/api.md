@@ -14,7 +14,7 @@ author:
 blog: true
 ---
 
-# Application Programming Interfaces
+# {{ $frontmatter.title }}
 
 Teachers: Declan Rek, Cyd Stumpel
 
