@@ -27,9 +27,7 @@ This course is about creating a web app that works for everyone, no matter what 
 
 The hackathon is a one week event focused on a specific topic. We have to create a web app that incorporates the topic.
 
-### Human Centered Design
-
-<!--### [Human Centered Design](/blog/human-centered-design)-->
+### [Human Centered Design](/blog/human-centered-design)
 
 This course is about creating a web app that is user-friendly. We have to do user research and usability testing.
 
