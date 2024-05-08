@@ -1,6 +1,6 @@
 ---
 title: Blog
-description: This blog contains posts about guest speakers and their talks.
+description: This blog contains posts about the courses I followed and guest speakers and their talks.
 layout: page
 sidebar: false
 ---
@@ -11,7 +11,7 @@ sidebar: false
       Welcome to my blog!
     </template>
     <template #lead>
-      This blog contains posts about the courses I followed and guest speakers and their talks.
+      {{ $frontmatter.description }}
     </template>
   </VPLCollectionPageTitle>
   <VPLCollectionPageTags v-model="tags" />
