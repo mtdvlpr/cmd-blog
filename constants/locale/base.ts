@@ -14,14 +14,14 @@ export const searchOptions = (
       if (env.frontmatter?.search === false) return ''
       let parsed = html
       if (env.frontmatter?.title) {
-        parsed = parsed.replace(
+        parsed = parsed.replaceAll(
           '{{ $frontmatter.title }}',
           `${env.frontmatter.title}`
         )
       }
 
       if (env.frontmatter?.byline) {
-        parsed = parsed.replace(
+        parsed = parsed.replaceAll(
           '{{ $frontmatter.byline }}',
           `${env.frontmatter.byline}`
         )
