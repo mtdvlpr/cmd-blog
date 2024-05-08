@@ -14,7 +14,7 @@ author:
 blog: true
 ---
 
-# Web App From Scratch
+# {{ $frontmatter.title }}
 
 Teachers: Marten Moolenaar, Bas de Greeuw
 

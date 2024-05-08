@@ -10,7 +10,7 @@ author:
 blog: true
 ---
 
-# Creative Coding
+# {{ $frontmatter.title }}
 
 Speaker: Rosa Schuurman
 

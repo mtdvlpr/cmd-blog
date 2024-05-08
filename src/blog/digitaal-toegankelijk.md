@@ -11,7 +11,7 @@ author:
 blog: true
 ---
 
-# Digitaal toegankelijk
+# {{ $frontmatter.title }}
 
 Speaker: Marieke de Hoop & Pim Teeuwisse
 

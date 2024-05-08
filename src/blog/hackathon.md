@@ -14,7 +14,7 @@ author:
 blog: true
 ---
 
-# Hackathon
+# {{ $frontmatter.title }}
 
 Teachers: Vasilis van Gemert, Sanne 't Hooft, Peter Paul Koch, Krijn Hoetmer
 

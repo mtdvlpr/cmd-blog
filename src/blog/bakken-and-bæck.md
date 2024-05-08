@@ -14,7 +14,7 @@ author:
 blog: true
 ---
 
-# Bakken & Bæck
+# {{ $frontmatter.title}}
 
 Speaker: Fenna de Wilde
 

@@ -10,7 +10,7 @@ author:
 blog: true
 ---
 
-# Weekly Nerd Reflection
+# {{ $frontmatter.title }}
 
 ## Summary
 
