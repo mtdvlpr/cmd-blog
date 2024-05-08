@@ -47,4 +47,4 @@ During this minor, I want to learn more about web development and design. Especi
 
 At the end of the minor, we have to do a meesterproef. This is a project where we have to create a web app for a real client. We have to use everything we learned during the minor. I'm looking forward to this project!
 
-I'd like to improve my design skills during the meesterproef and come up with a good design for the web app. I'd also like to improve my teamwork skills and learn how to work with a real client. Furthermore, I'd like to continue working with server-rendered JavaScript and improve on my existing knowledge from the API course.
+I'd like to improve my design skills during the meesterproef and come up with a good design for the web app. I'd also like to learn how to work with a real client. Furthermore, I'd like to continue working with server-rendered JavaScript and improve on my existing knowledge from the API course.
