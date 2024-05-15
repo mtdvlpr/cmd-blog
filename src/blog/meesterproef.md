@@ -38,7 +38,10 @@ During the briefing, we asked the client all our questions and got a better unde
 
 #### Code Review
 
-Soon.
+I had a code review with Victor. I told him about the briefing with the client and mentioned we were currently researching possible tech stacks to use. We were considering Nuxt, Astro and SvelteKit. I thought Astro would not be a good fit and Nuxt and SvelteKit were similar. Because I'm already familiar with Nuxt, I favored Nuxt. Victor agreed that Astro would not be a good fit, but thought SvelteKit might be a nice choice, so that I'd learn something new.
+
+I also explained that we're currently not planning to implement the AR feature, but that we're going to research it on the side. Victor suggested to create a PoC for the AR feature, next to the actual product.
+naast product, poc voor AR
 
 #### Design Review
 
