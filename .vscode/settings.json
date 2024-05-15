@@ -17,6 +17,7 @@
   "cSpell.language": "en,nl",
   "typescript.tsdk": "node_modules/typescript/lib",
   "cSpell.words": [
+    "Astro",
     "Bæck",
     "Cisneros",
     "CMDA",
@@ -25,6 +26,7 @@
     "Greeuw",
     "jeffreyarts",
     "lando",
+    "Nuxt",
     "Pinos",
     "stuyk",
     "Vasilis",
