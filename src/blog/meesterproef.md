@@ -43,9 +43,19 @@ I had a code review with Victor. I told him about the briefing with the client a
 I also explained that we're currently not planning to implement the AR feature, but that we're going to research it on the side. Victor suggested to create a PoC for the AR feature, next to the actual product.
 naast product, poc voor AR
 
+Afterwards, we agreed on a framework to use. We chose SvelteKit, because it's new for all of us and the tutorials are very clear. We started doing the SvelteKit tutorials to get familiar with it.
+
+We had a meeting with one of the students who created the "backoffice" for the client, Sebastian. He explained briefly what had been made. We asked him some questions and he was very helpful. He was under the impression that we were going to create a new front-end for the "backoffice" instead of a new app. We explained that we were going to create a new app and that we would use the "backoffice" as a CMS. He was surprised, but he was still willing to help us if we had any questions. He did explain that the current front-end of the "backoffice" was not really functional and needed a lot fo work for the client to be able to use it. We decided to extend the scope of the project and create a new front-end for the "backoffice" as well. Sebastian agreed to make the back-end of the "backoffice" available for us to use.
+
 #### Design Review
 
-Soon.
+I had a design review with Tamara. I showed her the clickable prototype that the client provided and explained that we were going to use it as a reference, but not as a final design. Tamara suggested to test the prototype with actual users to see if it's usable and change it based on the results. One of my learning goals is to improve my creative design skills, so Tamara also suggested to create a moodboard with different styles to get inspiration from. We talked about the internationalization of the app. The app is intended for both Dutch people in Amsterdam and tourists. The CMS only offers one language thought, so we have to come up with a solution for that. Tamara suggested to translate it dynamically using Google Translate or a similar service.
+
+#### Client Meeting
+
+We had a meeting with the client to discuss the progress. We talked about our plan to also work on the "backoffice" and discussed the agreements we've made with Sebastian. We've discussed the possibility of internationalization and that it depends on wether Sebastian can make it available in the back-end. The client mentioned we could reach out to another student, who was responsible for the iOS app. We discussed the domains and hosting for the final product.
+
+The following day, I focused on the structure of the app. I created a new SvelteKit project and implemented the basic code structure, routing, meta tags and internationalization.
 
 ### Week 2
 
