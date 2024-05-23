@@ -59,15 +59,19 @@ The following day, I focused on the structure of the app. I created a new Svelte
 
 ### Week 2
 
-Soon.
+Tuesday I started creating the base layout of the application, using Tailwind and Skeleton.dev for faster development. I implemented the header, bottom navigation and a dark/light mode.
 
 #### Code Review
 
-Soon.
+I had a code review with Cyd. I showed her my work on the base layout and she thought I was on a good track.
+
+Afterwards, we had a talk with our coach, Victor. We discussed wether we should be moving forward with Tailwind and Skeleton.dev and came to the conclusion to not use it. I started reverting my work.
+
+I created a new base layout with some basic styling.
 
 #### Design Review
 
-Soon.
+I had a design review with Vasilis. I showed him the new base layout and mentioned our descision to move away from Tailwind and Skeleton.dev. Vasilis agreed with the descision and thought we would learn more by writing our own CSS.
 
 ### Week 3
 
