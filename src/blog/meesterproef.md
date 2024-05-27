@@ -63,7 +63,7 @@ Tuesday I started creating the base layout of the application, using Tailwind an
 
 #### Code Review
 
-I had a code review with Cyd. I showed her my work on the base layout and she thought I was on a good track.
+I had a code review with Cyd. I showed her my work on the base layout and she thought I was on a good track. She suggested I document more of my code to make it clear what it does and how it works.
 
 Afterwards, we had a talk with our coach, Victor. We discussed wether we should be moving forward with Tailwind and Skeleton.dev and came to the conclusion to not use it. I started reverting my work.
 
@@ -73,9 +73,19 @@ I created a new base layout with some basic styling.
 
 I had a design review with Vasilis. I showed him the new base layout and mentioned our descision to move away from Tailwind and Skeleton.dev. Vasilis agreed with the descision and thought we would learn more by writing our own CSS.
 
+I started working on the list view of the buildings.
+
+#### Client Meeting
+
+We had a meeting with the client to discuss the progress. We showed the client the base layout and he was excited about it. We also set up the domains and hosting for the final product.
+
+Afterwards, I continued working on the list view.
+
 ### Week 3
 
-Soon.
+We had a meeting with our coach, Victor. We did a retrospective of the past weeks and discussed what we should stop, start and continue doing. We agreed that the communication with each other and the client was going excellent. We also agreed that we should start working on the final documentation and prevent increasing the scope of the project (again).
+
+I continued working on the list view and a popup to ask for the user's location.
 
 #### Code Review
 
