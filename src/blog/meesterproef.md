@@ -83,37 +83,29 @@ Afterwards, I continued working on the list view.
 
 ### Week 3
 
-We had a meeting with our coach, Victor. We did a retrospective of the past weeks and discussed what we should stop, start and continue doing. We agreed that the communication with each other and the client was going excellent. We also agreed that we should start working on the final documentation and prevent increasing the scope of the project (again).
+We had a meeting with Victor. We did a retrospective of the past weeks and discussed what we should stop, start and continue doing. We agreed that the communication with each other and the client was going excellent. We also agreed that we should start working on the final documentation and prevent increasing the scope of the project (again).
 
 I continued working on the list view and a popup to ask for the user's location.
 
-#### Code Review
-
-Soon.
-
-#### Design Review
-
-Soon.
+We had another meeting with Sebastian to discuss the backend of the "backoffice". He showed us the API and its documentation and we discussed how we could use it in our app.
 
 ### Week 4
 
-Soon.
+We had another meeting with Victor, and did another retrospective. Besides the things from last week, we also agreed that we should start experimenting more with the design and the AR feature.
 
-#### Code Review
+I worked on the arrow functionality where an arrow would point to where the building is located, based on its location and the location of the user.
 
-Soon.
-
-#### Design Review
-
-Soon.
+We had a virtual meeting with Sebastian and the client to discuss the progress. We showed our work on the map and list view and the "backoffice". The client was very happy with the progress. We discussed with Sebastian what still needed to be implemented in the API and talked about possible ways to improve the map view.
 
 ### Week 5
 
-Soon.
+We talked with Victor again and discussed the progess. I showed him my work on the arrow functionality and the experimentation I did with the AR function.
+
+The arrow was pointing to the building, but it assumes that the user is facing north. I started working on a way to calculate the direction the user is facing and adjust the arrow accordingly. I made it work using the device orientation API, but only if the user is holding the phone vertically.
 
 #### Code Review
 
-Soon.
+I had a code review with Marten. I showed him the arrow functionality and the code behind it. He though it was cool, and agreed I should also make it work when the user is holding the phone horizontally. He also suggested I should document my code more.
 
 #### Design Review
 
