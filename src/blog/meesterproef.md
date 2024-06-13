@@ -109,7 +109,7 @@ I had a code review with Marten. I showed him the arrow functionality and the co
 
 #### Design Review
 
-Soon.
+I had a design review with Sanne. I showed the entire app and got some valueable feedback on the design. Besides the obvious things, like the unstyled back button, I received the feedback that the title on the detail view did not match the title on the list view and should be more prominent. The text on the map view was also interfering with the colors of the buildings.
 
 ### Week 6
 
