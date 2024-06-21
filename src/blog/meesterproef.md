@@ -38,9 +38,11 @@ In the product biography, I will document the process, iterations, way of workin
 
 ### Week 1
 
+We started the week with preparing for the briefing with the client.We started the week with preparing for the briefing with the client.
+
 #### Preparation
 
-We started the week with preparing for the briefing with the client. We went through the assignment description and created an initial MoSCoW analysis. We also created a list of questions for the client and started researching possible solutions for the assignment. The client described a native app for Android and IOS, so I immediately started researching how we could create a native app using web technologies. I found Quasar, a Vue.js framework that allows you to create a native app using Vue.js. With one code base, we could create a PWA, android app and IOS app.
+We went through the assignment description and created an initial MoSCoW analysis. We also created a list of questions for the client and started researching possible solutions for the assignment. The client described a native app for Android and IOS, so I immediately started researching how we could create a native app using web technologies. I found Quasar, a Vue.js framework that allows you to create a native app using Vue.js. With one code base, we could create a PWA, android app and IOS app.
 
 We have divided the roles within the team. I will be mainly responsible for writing the notes for every meeting and discussion. Tristan will oversee the planning and make sure we stay on track. Quinten will be responsible for the contact with the client. We will all work on the design and code together.
 
@@ -79,13 +81,13 @@ Tuesday I started creating the base layout of the application, using [Tailwind](
 
 I had a code review with Cyd. I showed her my work on the base layout and she thought I was on a good track. She suggested I document more of my code to make it clear what it does and how it works.
 
-![Screenshot 2024-06-21 102741](https://github.com/mtdvlpr/cmd-blog/assets/46671786/004dda57-c437-4642-a126-e5d39f404f44)
+![First setup of base layout](https://github.com/mtdvlpr/cmd-blog/assets/46671786/004dda57-c437-4642-a126-e5d39f404f44)
 
 Afterwards, we had a talk with our coach, Victor. We discussed wether we should be moving forward with Tailwind and Skeleton.dev and came to the conclusion to not use it. I started reverting my work.
 
 I created a new base layout with some basic styling.
 
-![Screenshot 2024-06-21 104233](https://github.com/mtdvlpr/cmd-blog/assets/46671786/0a50736f-d750-43ff-a3ec-94a1ce9abdcd)
+![New base layout](https://github.com/mtdvlpr/cmd-blog/assets/46671786/0a50736f-d750-43ff-a3ec-94a1ce9abdcd)
 
 #### Design Review
 
@@ -99,7 +101,7 @@ We had a meeting with the client to discuss the progress. We showed the client t
 
 Afterwards, I continued working on the list view.
 
-![Screenshot 2024-06-21 104634](https://github.com/mtdvlpr/cmd-blog/assets/46671786/68d275b7-f487-41c7-867e-a803d81b0d7a)
+![List view](https://github.com/mtdvlpr/cmd-blog/assets/46671786/68d275b7-f487-41c7-867e-a803d81b0d7a)
 
 ### Week 3
 
@@ -107,8 +109,13 @@ We had a meeting with Victor. We did a retrospective of the past weeks and discu
 
 I continued working on the list view and a popup to ask for the user's location. I also worked on the detail page.
 
-<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/98c3d6c9-0fb5-4deb-b2f2-2c3c2c7cfd04" style="width: 45%"/>
-<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/88b8106d-4b22-45e4-afda-2d6babc84c31" style="width: 45%"/>
+::: half
+[Detail page](https://github.com/mtdvlpr/cmd-blog/assets/46671786/98c3d6c9-0fb5-4deb-b2f2-2c3c2c7cfd04)
+:::
+
+::: half
+[Location popup](https://github.com/mtdvlpr/cmd-blog/assets/46671786/88b8106d-4b22-45e4-afda-2d6babc84c31)
+:::
 
 We had another meeting with Sebastian to discuss the backend of the "backoffice". He showed us the API and its documentation and we discussed how we could use it in our app.
 
@@ -118,7 +125,9 @@ We had another meeting with Victor, and did another retrospective. Besides the t
 
 I worked on the arrow functionality where an arrow would point to where the building is located, based on its location and the location of the user.
 
-<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/8e9969de-a372-4fed-93a2-5d78fbca6221" style="width: 45%"/>
+::: half
+[Detail page with arrow functionality](https://github.com/mtdvlpr/cmd-blog/assets/46671786/8e9969de-a372-4fed-93a2-5d78fbca6221)
+:::
 
 We had a virtual meeting with Sebastian and the client to discuss the progress. We showed our work on the map and list view and the "backoffice". The client was very happy with the progress. We discussed with Sebastian what still needed to be implemented in the API and talked about possible ways to improve the map view.
 
@@ -148,8 +157,13 @@ I started this week being ill, so I could not be there for the last session with
 
 We had the final presentation with the client and Victor was also present. We prepared a presentation and showed the end result. Both the web app and the "backoffice" were working. The client was very happy with the result.
 
-<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/e17945eb-d6c0-4719-bbcf-9c26ec3f32ac" style="width: 45%"/>
-<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/6b830082-0797-4e7d-9b77-e8ebcea92d07" style="width: 45%"/>
+::: half
+[List view](https://github.com/mtdvlpr/cmd-blog/assets/46671786/e17945eb-d6c0-4719-bbcf-9c26ec3f32ac)
+:::
+
+::: half
+[Detail page](https://github.com/mtdvlpr/cmd-blog/assets/46671786/6b830082-0797-4e7d-9b77-e8ebcea92d07)
+:::
 
 ## Reflection
 
