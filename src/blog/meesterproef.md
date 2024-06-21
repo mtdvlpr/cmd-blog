@@ -103,6 +103,8 @@ We talked with Victor again and discussed the progess. I showed him my work on t
 
 The arrow was pointing to the building, but it assumes that the user is facing north. I started working on a way to calculate the direction the user is facing and adjust the arrow accordingly. I made it work using the device orientation API, but only if the user is holding the phone vertically.
 
+Because we still didn't have a working API, I decided to create a mock database and API for us to talk to, so that we could continue working on the app, and once the real API was available, we could easily switch to that.
+
 #### Code Review
 
 I had a code review with Marten. I showed him the arrow functionality and the code behind it. He though it was cool, and agreed I should also make it work when the user is holding the phone horizontally. He also suggested I should document my code more.
@@ -111,17 +113,15 @@ I had a code review with Marten. I showed him the arrow functionality and the co
 
 I had a design review with Sanne. I showed the entire app and got some valueable feedback on the design. Besides the obvious things, like the unstyled back button, I received the feedback that the title on the detail view did not match the title on the list view and should be more prominent. The text on the map view was also interfering with the colors of the buildings.
 
+The rest of the week, I focused on implementing the sorting and search functionality. I had to implement this functionality in the list view, in the API wrapper, the mock API and the mock database.
+
 ### Week 6
 
-Soon.
+I started this week being ill, so I could not be there for the last session with Victor. I did meet with the team and I finalized the sorting and search functionality. We were now sure that we would not receive a working API, so I started working on a mongoDB alternative. I could not get the search functionality to work with mongoDB, unfortunately.
 
-#### Code Review
+#### Client Presentation
 
-Soon.
-
-#### Design Review
-
-Soon.
+We had the final presentation with the client and Victor was also present. We prepared a presentation and showed the end result. Both the web app and the "backoffice" were working. The client was very happy with the result.
 
 ## Reflection
 
