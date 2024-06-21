@@ -8,6 +8,7 @@ vendor
 # Output
 dist
 src/.vitepress/cache
+config.mts.timestamp-*
 
 # Yarn
 .pnp.*
