@@ -65,9 +65,13 @@ Tuesday I started creating the base layout of the application, using [Tailwind](
 
 I had a code review with Cyd. I showed her my work on the base layout and she thought I was on a good track. She suggested I document more of my code to make it clear what it does and how it works.
 
+![Screenshot 2024-06-21 102741](https://github.com/mtdvlpr/cmd-blog/assets/46671786/004dda57-c437-4642-a126-e5d39f404f44)
+
 Afterwards, we had a talk with our coach, Victor. We discussed wether we should be moving forward with Tailwind and Skeleton.dev and came to the conclusion to not use it. I started reverting my work.
 
 I created a new base layout with some basic styling.
+
+![Screenshot 2024-06-21 104233](https://github.com/mtdvlpr/cmd-blog/assets/46671786/0a50736f-d750-43ff-a3ec-94a1ce9abdcd)
 
 #### Design Review
 
@@ -81,11 +85,16 @@ We had a meeting with the client to discuss the progress. We showed the client t
 
 Afterwards, I continued working on the list view.
 
+![Screenshot 2024-06-21 104634](https://github.com/mtdvlpr/cmd-blog/assets/46671786/68d275b7-f487-41c7-867e-a803d81b0d7a)
+
 ### Week 3
 
 We had a meeting with Victor. We did a retrospective of the past weeks and discussed what we should stop, start and continue doing. We agreed that the communication with each other and the client was going excellent. We also agreed that we should start working on the final documentation and prevent increasing the scope of the project (again).
 
-I continued working on the list view and a popup to ask for the user's location.
+I continued working on the list view and a popup to ask for the user's location. I also worked on the detail page.
+
+<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/98c3d6c9-0fb5-4deb-b2f2-2c3c2c7cfd04" style="width: 45%"/> 
+<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/88b8106d-4b22-45e4-afda-2d6babc84c31" style="width: 45%"/> 
 
 We had another meeting with Sebastian to discuss the backend of the "backoffice". He showed us the API and its documentation and we discussed how we could use it in our app.
 
@@ -94,6 +103,8 @@ We had another meeting with Sebastian to discuss the backend of the "backoffice"
 We had another meeting with Victor, and did another retrospective. Besides the things from last week, we also agreed that we should start experimenting more with the design and the AR feature.
 
 I worked on the arrow functionality where an arrow would point to where the building is located, based on its location and the location of the user.
+
+<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/8e9969de-a372-4fed-93a2-5d78fbca6221" style="width: 45%"/> 
 
 We had a virtual meeting with Sebastian and the client to discuss the progress. We showed our work on the map and list view and the "backoffice". The client was very happy with the progress. We discussed with Sebastian what still needed to be implemented in the API and talked about possible ways to improve the map view.
 
