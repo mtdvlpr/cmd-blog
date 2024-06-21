@@ -7,6 +7,10 @@ description: Some information about the minor.
 
 I'm doing the [Web Design & Development minor](https://everythingweb.org/) at the HvA. I'm learning a lot about web development and design.
 
+## Learning Goals for the minor
+
+During this minor, I want to learn more about web development and design. Especially about how to come up with a good design. I'd also like to improve in working with vanilla JavaScript, without frameworks.
+
 ## Courses
 
 The minor consists of five courses and a hackathon. Each course is about a different aspect of web development and design.
@@ -38,10 +42,6 @@ This course is about creating a web app that uses data from an external API and 
 ## Weekly Nerd
 
 Every week we have a guest speaker. They talk about their work and experiences. It's always interesting to hear from professionals in the field. After each talk, we write a blog post about it. You can find them on the [blog page](/blog). My reflection on the Weekly Nerds can be found in the [Weekly Nerd blog post](/blog/weekly-nerd).
-
-## Learning Goals for the minor
-
-During this minor, I want to learn more about web development and design. Especially about how to come up with a good design. I'd also like to improve in working with vanilla JavaScript, without frameworks.
 
 ## [Meesterproef](/blog/meesterproef)
 
