@@ -134,6 +134,10 @@ I started this week being ill, so I could not be there for the last session with
 
 We had the final presentation with the client and Victor was also present. We prepared a presentation and showed the end result. Both the web app and the "backoffice" were working. The client was very happy with the result.
 
+<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/e17945eb-d6c0-4719-bbcf-9c26ec3f32ac" style="width: 45%"/> 
+<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/6b830082-0797-4e7d-9b77-e8ebcea92d07" style="width: 45%"/> 
+
 ## Reflection
 
 Soon.
+
