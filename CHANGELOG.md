@@ -1,3 +1,9 @@
+# 1.7.0 (2024-6-21)
+
+## Features
+
+- Blog post about Meesterproef
+
 # 1.6.0 (2024-5-8)
 
 ## Features
