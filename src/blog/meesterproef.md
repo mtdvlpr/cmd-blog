@@ -110,11 +110,11 @@ We had a meeting with Victor. We did a retrospective of the past weeks and discu
 I continued working on the list view and a popup to ask for the user's location. I also worked on the detail page.
 
 ::: half
-[Detail page](https://github.com/mtdvlpr/cmd-blog/assets/46671786/98c3d6c9-0fb5-4deb-b2f2-2c3c2c7cfd04)
+![Detail page](https://github.com/mtdvlpr/cmd-blog/assets/46671786/98c3d6c9-0fb5-4deb-b2f2-2c3c2c7cfd04)
 :::
 
 ::: half
-[Location popup](https://github.com/mtdvlpr/cmd-blog/assets/46671786/88b8106d-4b22-45e4-afda-2d6babc84c31)
+![Location popup](https://github.com/mtdvlpr/cmd-blog/assets/46671786/88b8106d-4b22-45e4-afda-2d6babc84c31)
 :::
 
 We had another meeting with Sebastian to discuss the backend of the "backoffice". He showed us the API and its documentation and we discussed how we could use it in our app.
@@ -126,7 +126,7 @@ We had another meeting with Victor, and did another retrospective. Besides the t
 I worked on the arrow functionality where an arrow would point to where the building is located, based on its location and the location of the user.
 
 ::: half
-[Detail page with arrow functionality](https://github.com/mtdvlpr/cmd-blog/assets/46671786/8e9969de-a372-4fed-93a2-5d78fbca6221)
+![Detail page with arrow functionality](https://github.com/mtdvlpr/cmd-blog/assets/46671786/8e9969de-a372-4fed-93a2-5d78fbca6221)
 :::
 
 We had a virtual meeting with Sebastian and the client to discuss the progress. We showed our work on the map and list view and the "backoffice". The client was very happy with the progress. We discussed with Sebastian what still needed to be implemented in the API and talked about possible ways to improve the map view.
@@ -158,11 +158,11 @@ I started this week being ill, so I could not be there for the last session with
 We had the final presentation with the client and Victor was also present. We prepared a presentation and showed the end result. Both the web app and the "backoffice" were working. The client was very happy with the result.
 
 ::: half
-[List view](https://github.com/mtdvlpr/cmd-blog/assets/46671786/e17945eb-d6c0-4719-bbcf-9c26ec3f32ac)
+![List view](https://github.com/mtdvlpr/cmd-blog/assets/46671786/e17945eb-d6c0-4719-bbcf-9c26ec3f32ac)
 :::
 
 ::: half
-[Detail page](https://github.com/mtdvlpr/cmd-blog/assets/46671786/6b830082-0797-4e7d-9b77-e8ebcea92d07)
+![Detail page](https://github.com/mtdvlpr/cmd-blog/assets/46671786/6b830082-0797-4e7d-9b77-e8ebcea92d07)
 :::
 
 ## Reflection
