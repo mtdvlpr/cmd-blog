@@ -18,6 +18,20 @@ blog: true
 
 {{ $frontmatter.byline }}
 
+## Learning Goals
+
+### Design
+
+I'd like to improve my design skills during the meesterproef and come up with a good design for the web app. Specifically, I want to be able to come up with creative solutions to visualize functionalities. I'll work on this by brainstorming ideas, experimenting with different designs and getting feedback on them. I'll be happy if the client is happy with the design.
+
+### Client communication
+
+I'd also like to learn how to work with a real client. I want to be able to effectively translate the user needs to requirements and an actual product. I will try to do this by asking the right questions, listening to the client and making sure I understand their needs. I'll be happy if the client is happy with the end result.
+
+### Server-rendered JavaScript
+
+Furthermore, I'd like to continue working with server-rendered JavaScript and improve on my existing knowledge from the API course. I will do this by experimenting with more advanced server-rendered JavaScript functionalities and by implementing them in the web app. I'll be happy if the web app works well.
+
 ## Product Biography
 
 In the product biography, I will document the process, iterations, way of working and planning of the Meesterproef for each week. Tristan, Quinten and I will work together on the Meesterproef. We will work on the Anno Amsterdam project.
@@ -93,8 +107,8 @@ We had a meeting with Victor. We did a retrospective of the past weeks and discu
 
 I continued working on the list view and a popup to ask for the user's location. I also worked on the detail page.
 
-<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/98c3d6c9-0fb5-4deb-b2f2-2c3c2c7cfd04" style="width: 45%"/> 
-<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/88b8106d-4b22-45e4-afda-2d6babc84c31" style="width: 45%"/> 
+<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/98c3d6c9-0fb5-4deb-b2f2-2c3c2c7cfd04" style="width: 45%"/>
+<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/88b8106d-4b22-45e4-afda-2d6babc84c31" style="width: 45%"/>
 
 We had another meeting with Sebastian to discuss the backend of the "backoffice". He showed us the API and its documentation and we discussed how we could use it in our app.
 
@@ -104,7 +118,7 @@ We had another meeting with Victor, and did another retrospective. Besides the t
 
 I worked on the arrow functionality where an arrow would point to where the building is located, based on its location and the location of the user.
 
-<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/8e9969de-a372-4fed-93a2-5d78fbca6221" style="width: 45%"/> 
+<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/8e9969de-a372-4fed-93a2-5d78fbca6221" style="width: 45%"/>
 
 We had a virtual meeting with Sebastian and the client to discuss the progress. We showed our work on the map and list view and the "backoffice". The client was very happy with the progress. We discussed with Sebastian what still needed to be implemented in the API and talked about possible ways to improve the map view.
 
@@ -134,10 +148,29 @@ I started this week being ill, so I could not be there for the last session with
 
 We had the final presentation with the client and Victor was also present. We prepared a presentation and showed the end result. Both the web app and the "backoffice" were working. The client was very happy with the result.
 
-<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/e17945eb-d6c0-4719-bbcf-9c26ec3f32ac" style="width: 45%"/> 
-<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/6b830082-0797-4e7d-9b77-e8ebcea92d07" style="width: 45%"/> 
+<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/e17945eb-d6c0-4719-bbcf-9c26ec3f32ac" style="width: 45%"/>
+<img src="https://github.com/mtdvlpr/cmd-blog/assets/46671786/6b830082-0797-4e7d-9b77-e8ebcea92d07" style="width: 45%"/>
 
 ## Reflection
 
-Soon.
+I am very pleased with the entire process. We had a great team, a great coach and a great client. Especially the communication with the client was excellent. We had a lot of freedom in the project and the client was very open to our ideas. I am also very happy with the end result. The app looks great and works well. I am especially proud of the arrow functionality. I learned a lot during the project. I learned how to work with a client, how to work in a team and how to work with a new technology. I am very happy with the choice of SvelteKit. It was a great learning experience and I will definitely use it in future projects.
 
+It was a shame that we did not receive a working API and had to come up with a quick and dirty solution to continue working on the app. I would have liked to work with a real API and database, so that the "backoffice" and the web app would actually be connected.
+
+All in all, I thought it was a great project!
+
+### Learning Goals
+
+I wanted to work on three things: design, client communication and server-rendered JavaScript. I think I did well on all three.
+
+#### Design
+
+I believe I improved my design skills during the project. I started the project by using a UI library, but moved away from it to write my own CSS. This was a great learning experience. I also experimented with different designs. For example, for the list view, I started with a grid view and I also made a vertical version of the grid card for smaller screens. After some feedback, I changed it to a list view.
+
+#### Client communication
+
+The client communication went very smoothly. Right from the start, we had a good connection with the client. I asked the right questions and listened to the client. I also made sure I understood the client's needs. The client was very happy with the end result, and so was I.
+
+#### Server-rendered JavaScript
+
+I learned a lot about server-rendered JavaScript during the project. We chose to work with SvelteKit, which has great server-side rendering capabilities. I fetched data from the API on the server and passed it to the client. I also handled form submissions on the server and even created a mock API on the server.
