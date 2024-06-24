@@ -46,3 +46,11 @@ Every week we have a guest speaker. They talk about their work and experiences. 
 ## [Meesterproef](/blog/meesterproef)
 
 At the end of the minor, we have to do a meesterproef. This is a project where we have to create a web app for a real client. We have to use everything we learned during the minor.
+
+## Reflection
+
+I very much enjoyed the minor! I learned a lot about web development and design. I also learned a lot about working in a team. I'm very happy with the end result of the meesterproef. I'm proud of what we accomplished in such a short time.
+
+I'm looking forward to applying what I learned in future projects. I learned the most from the Browser Technology and API courses. These were therefor my favorite courses. I also enjoyed the Weekly Nerds. It was interesting to hear from professionals in the field.
+
+I do feel like I achieved my learning goals for the minor. I definitely improved in working with vanilla JavaScript and learned valid use cases of when to not use a big framework. I also improved in my design skills. Especially in how to design in an accessible way.
