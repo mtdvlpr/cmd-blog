@@ -179,7 +179,7 @@ I wanted to work on three things: design, client communication and server-render
 
 #### Design
 
-I believe I improved my design skills during the project. I started the project by using a UI library, but moved away from it to write my own CSS. This was a great learning experience. I also experimented with different designs. For example, for the list view, I started with a grid view and I also made a vertical version of the grid card for smaller screens. After some feedback, I changed it to a list view.
+I am not completely satisfied with this learning goal. I got stuck too much in the basic design. I do believe I improved my design skills during the project. I started the project by using a UI library, but moved away from it to write my own CSS. This was a great learning experience. I also experimented with different designs. For example, for the list view, I started with a grid view and I also made a vertical version of the grid card for smaller screens. After some feedback, I changed it to a list view.
 
 #### Client communication
 
