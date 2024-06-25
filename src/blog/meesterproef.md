@@ -5,6 +5,7 @@ tags:
   - html
   - css
   - javascript
+  - course
 author:
   name: Manoah
   link: /about/me
